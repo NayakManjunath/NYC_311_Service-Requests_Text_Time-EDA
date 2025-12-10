@@ -110,25 +110,7 @@ Key components included:
 
 ---
 
-## 5. Stretch Goals
-
-- Text classifier using TF-IDF + Logistic Regression
-- Clustering complaints with embeddings
-- Geospatial clustering (DBSCAN)
-- Interactive Streamlit dashboard with filters for borough, complaint type and time
-
----
-
-## 6. What to Show Stakeholders
-
-- Top 10 complaint categories and their share of total volume  
-- Median response time by borough and complaint type  
-- Daily or monthly trend visualizations  
-- Three focused recommendations tied to SLA and staffing improvements  
-
----
-
-## 7. Folder Structure
+## 5. Folder Structure
 project_nyc311_eda/
 ├─ notebooks/
 │  └─ EDA_NYC311.ipynb
